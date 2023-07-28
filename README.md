@@ -96,7 +96,7 @@ src="https://img.shields.io/github/followers/AngelDev727?logo=github&style=for-t
 [![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&logoColor=white&link=https://github.com/AngelDev727)](https://github.com/AngelDev727) 
 
 **Version Control:**
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/AngelDev727)](https://github.com/AngelDev727)
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/AngelDev727)](https://github.com/AngelDev727)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/AngelDev727)](https://github.com/AngelDev727) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/AngelDev727)](https://github.com/AngelDev727)
 <br/>
