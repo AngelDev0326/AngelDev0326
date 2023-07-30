@@ -4,13 +4,13 @@ Mobile(iOS, Android and React Native) & Web(PHP, Reactjs, Nodejs. Vue) applicati
 ---------------
 
 
-<!-- <img align="right" alt="GIF" src="https://github.com/AngelDev727/AngelDev727/blob/main/Source/image.gif?raw=true" width="400" height="250" /> -->
+<!-- <img align="right" alt="GIF" src="https://github.com/AngelDev0326/AngelDev0326/blob/main/Source/image.gif?raw=true" width="400" height="250" /> -->
  
  <a href="https://www.twitter.com/AngelDev727" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/AngelDev727?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/AngelDev0326?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-<a href="https://www.github.com/AngelDev727" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AngelDev727?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/AngelDev0326" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/AngelDev0326?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### My GitHub Stats
 
