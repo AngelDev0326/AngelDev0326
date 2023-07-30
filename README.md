@@ -55,9 +55,9 @@ src="https://img.shields.io/github/followers/AngelDev0326?logo=github&style=for-
 </p>
 
  
-- 👋 Hi, I’m @AngelDev727
+- 👋 Hi, I’m @AngelDev0326
 - 👨🏽‍💻 I can start new project now;
-- 👀 I’m interested in Mobile applicaion development(iOS-Swift, Android-kotlin, Hybird-React Native) and web application development with React, Vue, Node, PHP) 
+- 👀 I’m interested in Mobile applicaion development(iOS-Swift, Android-kotlin, Hybird-React Native) and web application development with React, Node, PHP) 
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything, I am happy to help;
 - 💞️ I’m looking to collaborate on Remote and Contract role.
