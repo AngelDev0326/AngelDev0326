@@ -68,8 +68,8 @@ src="https://img.shields.io/github/followers/AngelDev0326?logo=github&style=for-
  ** Swift, SwiftUI <br/>
  ** Kotlin, Java <br/>
  ** React Native(Expo, CLI) <br/>
- ** PHP, JQuery <br/>
  ** ReactJS, NodeJS <br/>
+ ** PHP, JQuery <br/>
  ** MySQL, MongoDB <br/>
 
 
