@@ -48,10 +48,10 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev0329/profileme-next/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
  <a href="https://www.babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev0329/profileme-next/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev0329/profileme-next/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
-<!-- <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> -->
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev0329/profileme-next/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
+<!-- <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev0329/profileme-next/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev0329/profileme-next/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev0329/profileme-next/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> -->
 </p>
 
  
