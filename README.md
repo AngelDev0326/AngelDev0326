@@ -24,7 +24,10 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 </a>
 <br />
 
+
 [![](https://github-readme-stats.vercel.app/api?username=AngelDev0329&hide_border=true&theme=nord&border_radius=4&width=220&height=200&include_all_commits=true&text_bold=true&custom_title=AngelDev0329&disable_animations=true&ring_color=FFA500)](https://github.com/AngelDev0329) | [![](https://leetcard.jacoblin.cool/eleev?width=500&height=194&theme=nord&animation=false&border=0&radius=20)](https://leetcode.com/AngelDev0329/)
+--|--
+
 
 ### Skills
 <p align="left">
