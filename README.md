@@ -83,8 +83,8 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 ### Tools
 
 **Software Development:**
-[![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/AngelDev727 "XCode")](https://github.com/AngelDev727)
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/AngelDev727 "Visual Studio")](https://github.com/AngelDev727)
+[![XCode](https://img.shields.io/badge/-1575F9?style=flat&logo=Xcode&logoColor=white&link=https://github.com/AngelDev0329 "XCode")](https://github.com/AngelDev0329)
+[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/AngelDev0329 "Visual Studio")](https://github.com/AngelDev0329)
 
 **SDLC**
 [![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/AngelDev727 "Agile")](https://github.com/AngelDev727) 
