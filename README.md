@@ -54,6 +54,8 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev0329/profileme-next/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> -->
 </p>
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=AngelDev0329&repo=swift-design-patterns&theme=nord&hide_border=true&border_radius=20&width=400&height=240)](https://github.com/AngelDev0329/swift-design-patterns) | [![](https://github-readme-stats.vercel.app/api/pin/?username=AngelDev0329&repo=swift-algorithms-data-structs&theme=nord&hide_border=true&border_radius=20&width=400&height=240)](https://github.com/eleev/swift-algorithms-data-structs) 
+
  
 - 👋 Hi, I’m @AngelDev0329
 - 👨🏽‍💻 I can start new project now;
