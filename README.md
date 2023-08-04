@@ -88,7 +88,7 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 
 **SDLC**
 [![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/AngelDev0329 "Agile")](https://github.com/AngelDev0329) 
-[![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/AngelDev727 "Scrum")](https://github.com/AngelDev727) 
+[![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/AngelDev0329 "Scrum")](https://github.com/AngelDev0329) 
 [![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white&link=https://github.com/AngelDev727 "Kanban")](https://github.com/AngelDev727)
 
 **Software Engineering:**
