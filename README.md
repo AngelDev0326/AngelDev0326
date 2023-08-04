@@ -24,10 +24,14 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 </a>
 <br />
 
-
+<!---
 [![](https://github-readme-stats.vercel.app/api?username=AngelDev0329&hide_border=true&theme=nord&border_radius=4&width=220&height=200&include_all_commits=true&text_bold=true&custom_title=AngelDev0329&disable_animations=true&ring_color=FFA500)](https://github.com/AngelDev0329) | [![](https://leetcard.jacoblin.cool/AngelDev0326?width=500&height=194&theme=nord&animation=false&border=0&radius=20)](https://leetcode.com/AngelDev0329/)
 --|--
+-->
 
+<!---
+[![](https://github-readme-stats.vercel.app/api/pin/?username=AngelDev0329&repo=swift-design-patterns&theme=nord&hide_border=true&border_radius=20&width=400&height=240)](https://github.com/AngelDev0329/swift-design-patterns) | [![](https://github-readme-stats.vercel.app/api/pin/?username=AngelDev0329&repo=swift-algorithms-data-structs&theme=nord&hide_border=true&border_radius=20&width=400&height=240)](https://github.com/AngelDev0329/swift-algorithms-data-structs) 
+-->
 
 ### Skills
 <p align="left">
@@ -65,10 +69,6 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AngelDev0329/AngelDev0329/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-<!---
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AngelDev0329&repo=swift-design-patterns&theme=nord&hide_border=true&border_radius=20&width=400&height=240)](https://github.com/AngelDev0329/swift-design-patterns) | [![](https://github-readme-stats.vercel.app/api/pin/?username=AngelDev0329&repo=swift-algorithms-data-structs&theme=nord&hide_border=true&border_radius=20&width=400&height=240)](https://github.com/AngelDev0329/swift-algorithms-data-structs) 
--->
  
 - 👋 Hi, I’m @AngelDev0329
 - 👨🏽‍💻 I can start new project now;
