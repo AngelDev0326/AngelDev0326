@@ -14,9 +14,9 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/AngelDev0326">
+<a href="http://www.github.com/AngelDev0329">
 <!--  <img align="left" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=AngelDev0329&theme=vue" /> -->
- <img align="right" src="https://github-profile-trophy.vercel.app/?username=AngelDev0326&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
+ <img align="right" src="https://github-profile-trophy.vercel.app/?username=AngelDev0329&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
  
  <img src="https://github-readme-stats.vercel.app/api?username=AngelDev0329&show_icons=false&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AngelDev0329's GitHub stats" />
 
@@ -27,9 +27,9 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 
 ### Skills
 <p align="left">
-<a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-<a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev0329/profileme-next/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev0329/profileme-next/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev0329/profileme-next/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
