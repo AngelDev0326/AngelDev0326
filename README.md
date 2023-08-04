@@ -92,8 +92,8 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 [![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white&link=https://github.com/AngelDev0329 "Kanban")](https://github.com/AngelDev0329)
 
 **Software Engineering:**
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/AngelDev727)](https://github.com/AngelDev727)
-[![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&logoColor=white&link=https://github.com/AngelDev727)](https://github.com/AngelDev727) 
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/AngelDev0329)](https://github.com/AngelDev0329)
+[![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&logoColor=white&link=https://github.com/AngelDev0329)](https://github.com/AngelDev0329) 
 
 **Version Control:**
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/AngelDev727)](https://github.com/AngelDev727)
