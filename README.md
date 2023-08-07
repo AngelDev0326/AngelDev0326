@@ -62,13 +62,13 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AngelDev0329/profileme-next/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> -->
 </p>
 
-
+<!---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngelDev0329/AngelDev0329/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngelDev0329/AngelDev0329/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AngelDev0329/AngelDev0329/output/github-contribution-grid-snake.svg">
 </picture>
-
+-->
  
 - 👋 Hi, I’m @AngelDev0329
 - 👨🏽‍💻 I can start new project now;
