@@ -15,9 +15,9 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 ### My GitHub Stats
 
 <a href="http://www.github.com/AngelDev0329">
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=2&username=AngelDev0329&theme=vue&count_private=true&show_icons=true" />
+<img align="left" src="https://bad-apple-github-readme.vercel.app/api?show_bg=2&username=AngelDev0329&theme=vue&count_private=true&show_icons=true" />
  
-<!--  <img align="right" src="https://github-profile-trophy.vercel.app/?username=AngelDev0329&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2"> -->
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=AngelDev0329&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5">
  
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=AngelDev0329&show_icons=false&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AngelDev0329's GitHub stats" /> -->
 
