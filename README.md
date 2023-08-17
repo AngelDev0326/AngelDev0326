@@ -15,7 +15,7 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 ### My GitHub Stats
 
 <a href="http://www.github.com/AngelDev0329">
-<img align="left" src="https://bad-apple-github-readme.vercel.app/api?show_bg=2&username=AngelDev0329&theme=vue&count_private=true&show_icons=true" />
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=2&username=AngelDev0329&theme=vue&count_private=true&show_icons=true" />
  
 <!--  <img align="right" src="https://github-profile-trophy.vercel.app/?username=AngelDev0329&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2"> -->
  
@@ -25,10 +25,9 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 </a>
 <br />
 
-<!---
-[![](https://github-readme-stats.vercel.app/api?username=AngelDev0329&hide_border=true&theme=nord&border_radius=4&width=220&height=200&include_all_commits=true&text_bold=true&custom_title=AngelDev0329&disable_animations=true&ring_color=FFA500)](https://github.com/AngelDev0329) | [![](https://leetcard.jacoblin.cool/AngelDev0326?width=500&height=194&theme=nord&animation=false&border=0&radius=20)](https://leetcode.com/AngelDev0329/)
+<!-- [![](https://github-readme-stats.vercel.app/api?username=AngelDev0329&hide_border=true&theme=nord&border_radius=4&width=220&height=200&include_all_commits=true&text_bold=true&custom_title=AngelDev0329&disable_animations=true&ring_color=FFA500&count_private=true&show_icons=true)](https://github.com/AngelDev0329) | [![](https://leetcard.jacoblin.cool/AngelDev0326?width=500&height=194&theme=nord&animation=false&border=0&radius=20)](https://leetcode.com/AngelDev0329/)
 --|--
--->
+ -->
 
 <!---
 [![](https://github-readme-stats.vercel.app/api/pin/?username=AngelDev0329&repo=swift-design-patterns&theme=nord&hide_border=true&border_radius=20&width=400&height=240)](https://github.com/AngelDev0329/swift-design-patterns) | [![](https://github-readme-stats.vercel.app/api/pin/?username=AngelDev0329&repo=swift-algorithms-data-structs&theme=nord&hide_border=true&border_radius=20&width=400&height=240)](https://github.com/AngelDev0329/swift-algorithms-data-structs) 
