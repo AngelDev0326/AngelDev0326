@@ -14,15 +14,16 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/AngelDev0329">
+[![](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=AngelDev0329&theme=vue&count_private=true&show_icons=true)](https://github.com/AngelDev0329) | [![](https://github-profile-trophy.vercel.app/?username=AngelDev0329&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&theme=nord&animation=false&border=0&radius=20&row=2&column=2)](https://leetcode.com/AngelDev0326/)
+--|--
+
+
+<!--  
 <img align="left" src="https://bad-apple-github-readme.vercel.app/api?show_bg=2&username=AngelDev0329&theme=vue&count_private=true&show_icons=true" />
- 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=AngelDev0329&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5">
- 
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=AngelDev0329&show_icons=false&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AngelDev0329's GitHub stats" /> -->
+<img src="https://github-profile-trophy.vercel.app/?username=AngelDev0329&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5">
+<img src="https://github-readme-stats.vercel.app/api?username=AngelDev0329&show_icons=false&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AngelDev0329's GitHub stats" /> -->
 
 <!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelDev0329&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> -->
-</a>
 <br />
 
 <!-- [![](https://github-readme-stats.vercel.app/api?username=AngelDev0329&hide_border=true&theme=nord&border_radius=4&width=220&height=200&include_all_commits=true&text_bold=true&custom_title=AngelDev0329&disable_animations=true&ring_color=FFA500&count_private=true&show_icons=true)](https://github.com/AngelDev0329) | [![](https://leetcard.jacoblin.cool/AngelDev0326?width=500&height=194&theme=nord&animation=false&border=0&radius=20)](https://leetcode.com/AngelDev0329/)
