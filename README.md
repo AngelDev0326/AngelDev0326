@@ -91,7 +91,7 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 
 🚧 **My Todo Stats:**
 <!-- TODO-IST:START -->
-🌸  Completed 22 live projects         
+🌸  Completed 18 live projects         
 ✅  Completed 168 tasks so far           
 <!-- TODO-IST:END -->
 
