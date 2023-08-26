@@ -6,12 +6,12 @@ Mobile(iOS, Android and React Native) | Web(PHP, Reactjs, Nodejs) application de
 
 <!-- <img align="right" alt="GIF" src="https://github.com/AngelDev0329/AngelDev0329/blob/main/Source/image.gif?raw=true" width="400" height="250" /> -->
  
- <a href="https://www.twitter.com/AngelDev0329" target="_blank" rel="noreferrer"><img
+<!-- <a href="https://www.twitter.com/AngelDev0329" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AngelDev0329?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 <a href="https://www.github.com/AngelDev0329" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+ -->
 ### My GitHub Stats
 
 [![](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=AngelDev0329&theme=vue&count_private=true&show_icons=true)](https://github.com/AngelDev0329) | [![](https://github-profile-trophy.vercel.app/?username=AngelDev0329&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&theme=nord&animation=false&border=0&radius=20&row=2&column=2)](https://leetcode.com/AngelDev0326/)
