@@ -81,12 +81,12 @@ src="https://img.shields.io/github/followers/AngelDev0329?logo=github&style=for-
 
 
 ### Languages
- ** ReactJS, NodeJS <br/>
- ** React Native(Expo, CLI) <br/>
- ** Swift, SwiftUI <br/>
- ** Kotlin, Java <br/>
- ** PHP, JQuery <br/>
- ** MySQL, MongoDB <br/>
+- ReactJS, NodeJS <br/>
+- React Native(Expo, CLI) <br/>
+- Swift, SwiftUI <br/>
+- Kotlin, Java <br/>
+- PHP, JQuery <br/>
+- MySQL, MongoDB <br/>
 
 
 🚧 **My Todo Stats:**
